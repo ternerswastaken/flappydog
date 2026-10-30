@@ -1,0 +1,7 @@
+{
+  "name": "flappy-dog",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
